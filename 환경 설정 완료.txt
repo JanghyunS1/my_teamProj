@@ -1,0 +1,4 @@
+1. JDK 버젼
+2. Tomcat 버젼
+3. Spring 버젼
+4. Dynamic Web Project 버젼
